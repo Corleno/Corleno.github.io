@@ -24,3 +24,5 @@ author:
 description: "Personal website of Mark Berger, BASc Computer Engineering."
 title: "Mark Berger"
 url: "http://maberger.com"
+
+theme: jekyll-theme-merlot
