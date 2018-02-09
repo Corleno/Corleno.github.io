@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Upgrading Your Nexus 4 to 6.0.1 Marshmallow
+title: Sequential Monte Carlo
 tags: android nexus marshmallow 6.0.1 adb root
 image_large: /images/2015-12-17-large-nexus-4.jpg
 image_small: /images/2015-12-17-small-nexus-4.png
 ---
+
+
+{% comment %}
 
 With the recent release of [Android 6.0 Marshmallow](https://www.android.com/intl/en_ca/versions/marshmallow-6-0/ "Android 6.0 Marshmallow"), Google has dropped support for over-the-air updates on the Nexus 4. If your device feels like it's aging and you're interested in spending some time to upgrade it and enable some more advanced features, then this post will probably help you out.
 
@@ -184,3 +187,5 @@ Another enhancement you might want is improve audio control and flexibility. For
 ## Wrap-up
 
 Feel free to look into the [Xposed framework](http://repo.xposed.info/module/de.robv.android.xposed.installer "Xposed Framework") for further system modification, or theming with [Layers Manager](https://play.google.com/store/apps/details?id=com.lovejoy777.rroandlayersmanager&hl=en "Layers Manager - Google Play"). There's a lot more customization that you can do if you're interested.
+
+{% endcomment %}
