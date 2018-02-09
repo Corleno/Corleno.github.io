@@ -1,233 +1,161 @@
 {
   "basics": {
-    "name": "Mark Berger",
-    "label": "BASc Computer Engineering",
+    "name": "Rui Meng",
+    "label": "Ph.D. Statistics",
     "picture": "http://maberger.com/images/maberger.png",
-    "email": "maberger6@gmail.com",
-    "website": "http://maberger.com",
-    "summary": "I'm a software developer from Ontario, Canada. I recently completed my BASc in Computer Engineering at the University of Waterloo and I'm looking for new opportunities. Working with both hardware and software on various platforms from embedded systems to mobile phones has broadened my experience, but you'll find me most at home developing for the web. I really enjoy building client-side web applications, and have a strong foundation in server-side development and working with databases. Consistency and clear communication have always been very important to me and I'm a quick learner who is always eager to pick up new technologies.",
+    "email": "mengrui6351@gmail.com",
+    "website": "http://Corleno.github.io",
+    "summary": "I'm a statistician from Chongqing, China. I am pursuing my Ph.D. in Statistics at the University of California, Santa Cruz. My research focus on Bayesian model, Optimization and Machine Learning.",
     "location": {
-      "city": "Toronto",
+      "city": "California",
       "countryCode": "CA",
-      "region": "Ontario"
+      "region": "Santa Cruz"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "mark-berger",
-        "url": "https://github.com/mark-berger"
+        "username": "Corleno",
+        "url": "https://github.com/Corleno"
       },
       {
         "network": "LinkedIn",
-        "username": "maberger",
-        "url": "https://ca.linkedin.com/in/maberger"
+        "username": "Rui Meng",
+        "url": "www.linkedin.com/in/rui-meng"
       }
     ]
   },
   "work": [
     {
-      "company": "ShopLocket",
-      "position": "Software Developer, Co-op",
-      "website": "http://shoplocket.com/",
-      "startDate": "2014-09-02",
-      "endDate": "2014-12-19",
-      "summary": "Toronto, ON",
+      "company": "Lawrence Livermore NationaCalifornia, Livermore",
+      "position": "Data Science Intern",
+      "website": "https://computation.llnl.gov/careers/internships/data-heroes-program",
+      "startDate": "2014-06",
+      "endDate": "Curremt",
+      "summary": "California, Livermore",
       "highlights": [
-        "Created a powerful Jekyll build system using GruntJS, Bower, Haml, Sass",
-        "Added new features to a shopping cart built with AngularJS",
-        "Developed responsive, fluid, and interactive visualizations using D3.js",
-        "Designed a system to extract data from Facebook, Twitter, Google+ APIs",
-        "Individually built a dashboard for monitoring and visualizing community"
+        "Designed continuous-time hidden markov model for Norwegian Cervical Cancer Screening Dataset.",
+        "Proposed parallelized EM, MCMC and Variational Bayesian method for inference.",
+        "Proposed adaptive sampling method with B-splines to efficiently fit complicated curves and extract abnormal areas.",
+        "Software used: Python, R, MPI"
       ]
     },
     {
-      "company": "BNOTIONS",
-      "position": "Senior Software Engineer, Co-op",
-      "website": "http://www.bnotions.com/",
-      "startDate": "2013-09-03",
-      "endDate": "2013-12-20",
-      "summary": "Toronto, ON",
+      "company": "Mininglamp",
+      "position": "Data Scientist",
+      "website": "http://www.mininglamp.com/",
+      "startDate": "2016-06",
+      "endDate": "2016-08",
+      "summary": "Beijing",
       "highlights": [
-        "Built a rich and dynamic single-page web application using AngularJS",
-        "Gained experience with Sass, Jade, GruntJS, Jasmine, npm",
-        "Developed a RESTful API with Django, interfacing with Facebook APIs",
-        "Managed pull requests and code reviews in an agile team using git-flow"
+        "Designed and Implemented machine learning algorithms for natural language processing in the recommendation system.",
+        "Proposed the Profile Hidden Markov Model for advertisement messages classification and keyword extraction.",
+        "Software used: Python, Scala, Spark, Java, Maven, SQL"
       ]
     },
     {
-      "company": "Flipp",
-      "position": "Senior Web Developer, Co-op",
-      "website": "https://corp.flipp.com/",
-      "startDate": "2013-01-02",
-      "endDate": "2013-04-26",
-      "summary": "Toronto, ON",
+      "company": "Institute of Software, China Academy of Science",
+      "position": "Summer Intern",
+      "website": "http://english.is.cas.cn/",
+      "startDate": "2013-07",
+      "endDate": "2013-12",
+      "summary": "Beijing",
       "highlights": [
-        "Created ad modules in CSS, JS, HTML serving millions of views/day",
-        "Developed an authenticated API for returning JSON, RSS, and XML data",
-        "Automated reporting by creating a wrapper for the Google Analytics API",
-        "Feature development with Rails, including RSpec test cases and TDD",
-        "Gained experience in Unix with an agile team collaborating using Git"
+        "Designed and analyzed one multi-mode control system and proposed a new algorithm to search for secure initial domainin control system.",
+        "Software used: C++."
       ]
     },
-    {
-      "company": "Orbit Group Partners Inc.",
-      "position": "Software Developer, Co-op",
-      "website": "http://orbitgroup.ca/",
-      "startDate": "2011-09-05",
-      "endDate": "2012-08-31",
-      "summary": "Markham, ON",
-      "highlights": [
-        "Rebuilt messaging/notification system using JSON web services",
-        "Developed scripts, architecture and optimized stored procedures",
-        "Designed UI elements to enhance usability and performance",
-        "Updated HTML and CSS throughout the app with a modern look and feel",
-        "Played an integral role in developing, testing, documenting a major release"
-      ]
-    },
-    {
-      "company": "Orbit Group Partners Inc.",
-      "position": "Business Systems Analyst, Co-op",
-      "website": "http://orbitgroup.ca/",
-      "startDate": "2011-01-03",
-      "endDate": "2011-04-29",
-      "summary": "Markham, ON",
-      "highlights": [
-        "Provided efficient resolution directly to clients, triaging technical issues",
-        "Demonstrated technical expertise finding solutions to unique problems",
-        "Developed SQL scripts and queries optimized for producing reports",
-        "Automated reporting with VBA macros; refined routine tasks"
-      ]
-    }
+
   ],
   "education": [
     {
-      "institution": "University of Waterloo",
-      "area": "Waterloo, ON",
-      "studyType": "BASc Honours Computer Engineering",
-      "startDate": "2010-09-13",
-      "endDate": "2015-06-13",
+      "institution": "University of California, Santa Cruz",
+      "area": "Santa Cruz, CA, US",
+      "studyType": "Statistics",
+      "startDate": "2016-09-01",
+      "endDate": "2020",
       "courses": [
-        "ECE 103 - Discrete Mathematics",
-        "ECE 105 - Physics of Electrical Engineering 1",
-        "ECE 106 - Physics of Electrical Engineering 2",
-        "ECE 124 - Digital Circuits and Systems",
-        "ECE 140 - Linear Circuits",
-        "ECE 150 - Fundamentals of Programming",
-        "ECE 155 - Engineering Design with Embedded Systems",
-        "ECE 222 - Digital Computers",
-        "ECE 240 - Electronic Circuits 1",
-        "ECE 250 - Algorithms and Data Structures",
-        "ECE 290 - Engineering Profession, Ethics, and Law",
-        "MATH 117 - Calculus 1 for Engineering",
-        "MATH 119 - Calculus 2 for Engineering",
-        "MATH 211 - Advanced Calculus 1 for Electrical and Computer Engineers",
-        "MATH 215 - Linear Algebra for Engineering",
-        "ECE 207 - Signals and Systems",
-        "ECE 224 - Embedded Microprocessor Systems",
-        "ECE 242 - Electronic Circuits 2",
-        "ECE 254 - Operating Systems and Systems Programming",
-        "SCI 238 - Introductory Astronomy",
-        "ECE 316 - Probability Theory and Random Processes",
-        "ECE 327 - Digital Hardware Systems",
-        "ECE 351 - Compilers",
-        "ECE 380 - Analog Control Systems",
-        "HIST 200 - History and Film",
-        "ECE 318 - Analog and Digital Communications",
-        "ECE 356 - Database Systems",
-        "ECE 358 - Computer Networks",
-        "ECE 390 - Engineering Design, Economics, and Impact on Society",
-        "STV 205 - Cybernetics and Society",
-        "CLAS 104 - Classical Mythology",
-        "ECE 454 - Distributed Systems",
-        "ECE 455 - Embedded Software",
-        "ECE 458 - Computer Security",
-        "ECE 498A - Engineering Design Project A",
-        "REC 100 - Introduction to the Study of Recreation and Leisure",
-        "ENVS 200 - Field Ecology",
-        "ECE 416 - Advanced Topics in Networking",
-        "ECE 457B - Computational Intelligence: Fuzzy Logic and Neural Networks Fundamentals",
-        "ECE 498B - Engineering Design Project B"
+        
       ]
     }
   ],
   "awards": [
     {
-      "title": "Graduation with Distinction",
-      "date": "2015-06-13",
-      "awarder": "University of Waterloo",
-      "summary": "Attained a cumulative average of at least 80%"
+      "title": "Graduate Research Fellowship",
+      "date": "2017-2018",
+      "awarder": "University of California, Santa Cruz",
+      "summary": "Collaborate with NASA and LLNL."
     },
     {
-      "title": "Outstanding Co-op Evaluations",
-      "date": "2015-06-13",
-      "awarder": "University of Waterloo",
-      "summary": "Significantly exceeded all expectations for all 6 terms"
+      "title": "KAUST Discovery Scholarship recipient",
+      "date": "2014-2016",
+      "awarder": "King Abdullah University of Science and Technology",
+      "summary": "Full Scholarship 75K per year"
     },
     {
-      "title": "Nortel Networks & President’s Entrance Scholarship",
-      "date": "2010-11-11",
-      "awarder": "University of Waterloo",
-      "summary": "Awarded to top students entering Computer Engineering"
+      "title": "Distinguish Fellowship in Mathematics and Economics, Jilin University, China",
+      "date": "2012",
+      "awarder": "Jilin University",
+      "summary": " top 1%"
     },
     {
-      "title": "Best Presentation, U of T Space Design Contest",
-      "date": "2010-05-13",
-      "awarder": "University of Toronto",
-      "summary": "First place for international engineering competition"
+      "title": "Honorable Mention in the Mathematical Contest in Modeling",
+      "date": "2012",
+      "awarder": "COMAP's Mathematical Contest in Modeling (MCM)",
+      "summary": "Team Leader"
+    },
+    {
+      "title": "Jilin University Mathematics Department Scholarship",
+      "date": "2010-2012",
+      "awarder": "Jilin University",
+      "summary": "top 5%"
+    },
+    {
+      "title": "2nd Place in Chinese Mathematical Olympiad, CMO",
+      "date": "2009",
+      "awarder": "CMO",
+      "summary": "top 1%"
+    },
+    {
+      "title": "1 st Place in National Olympiad in Informatics, NOI (top 1%)",
+      "date": "2008",
+      "awarder": "NOI",
+      "summary": "top 1%"
     }
   ],
   "skills": [
     {
-      "name": "Front-end tech/frameworks",
-      "keywords": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "D3.js",
-        "AngularJS 1.x"
-      ]
-    },
-    {
-      "name": "Back-end web frameworks",
-      "keywords": [
-        "Django",
-        "Flask",
-        "Ruby on Rails",
-        "ASP.NET"
-      ]
-    },
-    {
-      "name": "Relational databases",
-      "keywords": [
-        "MySQL",
-        "SQL Server",
-        "PostgresSQL",
-        "SQLite"
-      ]
-    },
-    {
-      "name": "Object-oriented programming",
-      "keywords": [
+      "name": "Programming skills",
+      "keywords":
+      [
+        "R", 
         "Python",
-        "Java",
-        "VB.NET",
-        "C#"
+        "Scala",
+        "Spark",
+        "Matlab",
+        "Mathematica",
+        "Maple",
+        "C",
+        "C++",
+        "Java"
       ]
     },
     {
-      "name": "Platforms",
+      "name": "Tools",
       "keywords": [
-        "Web",
-        "Android",
-        "Unix",
-        "Embedded Systems"
+        "MPI",
+        "sklearn",
+        "tensorflow"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency":  "Advanced"
+    },
+    {
+      "language": "Chinese",
+      "fluency":  "Native speaker" 
     }
   ],
   "interests": [
