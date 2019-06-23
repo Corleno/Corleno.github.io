@@ -6,9 +6,9 @@ title: About
 
 Hello!
 
-I'm a software developer from Ontario, Canada. I've recently completed my Bachelor of Applied Science in [Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/ "Computer Engineering at uWaterloo") at the [University of Waterloo](https://uwaterloo.ca/ "University of Waterloo Homepage").
+I'm a Ph.D. student from University of California, Santa Cruz, CA, US. I am pursuing my Ph.D. of Statistics in [Statistics Department](https://www.soe.ucsc.edu/departments/statistics "Statistics department at UCSC") at the [University of California, Santa Cruz](https://www.ucsc.edu/ "University of California, Santa Cruz Homepage").
 
-Throughout my education I've had experience working with both software and hardware, and really love learning new frameworks and technologies. I've developed software for a variety of different platforms ranging from embedded systems to mobile phones, however I always find myself being drawn back to the ever-evolving web. I really enjoy working with front-end technologies and like the design aspect involved with developing web pages, but I'll also dig into server-side logic and databases too.
+My research focus on Bayesian Statistics, Variational Inference, Nonparameteric Method and Graph Model. I am also interested in Bayesian deep learning such as Deep Gaussian Process, Bayesian Neural Network and so on. 
 
 I built this website using [Jekyll](http://jekyllrb.com/ "Jekyll") and it's currently hosted on [GitHub Pages](https://pages.github.com/ "GitHub Pages"). It doubles as my [resume]({{ site.baseurl }}/resume "Mark Berger's Resume") and a place to post guides, code fragments, thoughts and anything else that's interesting.
 

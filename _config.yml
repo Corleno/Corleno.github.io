@@ -7,8 +7,8 @@ permalink: pretty
 sass:
     style: :compressed
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
